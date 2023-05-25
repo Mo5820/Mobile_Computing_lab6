@@ -15,3 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# Mobile_Computing_lab6" 
+"# Mobile_Computing_lab6"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/Mo5820/Mobile_Computing_lab6.git git push -u origin main
